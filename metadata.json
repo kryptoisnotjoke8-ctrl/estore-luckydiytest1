@@ -1,0 +1,5 @@
+{
+  "name": "React E-commerce Theme",
+  "description": "A modern, responsive e-commerce front-end application built with React and Tailwind CSS. It features product filtering by category, search functionality, and a shopping cart modal, providing a complete and stylish online store interface.",
+  "requestFramePermissions": []
+}
